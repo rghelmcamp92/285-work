@@ -12,9 +12,8 @@
 }
 
 .photo {
-    max-width: 400px;
-    height: auto;
     margin: 16px;
+    max-width: 500px;
 
 }
 
